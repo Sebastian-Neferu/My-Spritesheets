@@ -1,0 +1,82 @@
+<svg width="504" height="36" viewBox="0 0 504 36" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="504" height="36" fill="white"/>
+<rect width="36" height="36" fill="white"/>
+<path d="M36 0V36H0L36 0Z" fill="#808080"/>
+<rect x="5" y="5" width="26" height="26" fill="#C4C4C4"/>
+<rect width="36" height="36" transform="translate(36)" fill="white"/>
+<path d="M72 0V36H36L72 0Z" fill="#808080"/>
+<rect x="41" y="5" width="26" height="26" fill="#C4C4C4"/>
+<rect x="46" y="25" width="16" height="3" fill="black"/>
+<rect x="48" y="23" width="12" height="2" fill="black"/>
+<rect x="53" y="13.4723" width="2" height="14.0069" fill="black"/>
+<path d="M47 12.7113L55 8.09251L55 17.3301L47 12.7113Z" fill="#FF0000"/>
+<rect width="36" height="36" transform="translate(72)" fill="#C4C4C4"/>
+<rect x="72" width="3" height="36" fill="#808080"/>
+<rect x="72" width="36" height="3" fill="#808080"/>
+<rect x="83.3982" y="26.4227" width="16" height="3" fill="black"/>
+<rect x="85.3982" y="24.4227" width="12" height="2" fill="black"/>
+<rect x="90.3982" y="14.895" width="2" height="14.0069" fill="black"/>
+<path d="M84.3982 14.134L92.3982 9.51524L92.3982 18.7528L84.3982 14.134Z" fill="#808080"/>
+<rect x="76.4219" y="32.414" width="39.3592" height="3" rx="1.5" transform="rotate(-45 76.4219 32.414)" fill="#FF0000"/>
+<rect width="36" height="36" transform="translate(108)" fill="#C4C4C4"/>
+<rect x="108" width="3" height="36" fill="#808080"/>
+<rect x="108" width="36" height="3" fill="#808080"/>
+<rect x="126.398" y="5.39818" width="2" height="28" rx="1" fill="black"/>
+<rect x="141.398" y="18.3982" width="2" height="28" rx="1" transform="rotate(90 141.398 18.3982)" fill="black"/>
+<rect x="137.298" y="27.8835" width="2" height="26" rx="1" transform="rotate(135 137.298 27.8835)" fill="black"/>
+<rect x="135.883" y="9.39818" width="2" height="26" rx="1" transform="rotate(45 135.883 9.39818)" fill="black"/>
+<circle cx="127.398" cy="19.3982" r="10" fill="url(#paint0_radial)"/>
+<rect width="36" height="36" transform="translate(144)" fill="#FF0000"/>
+<rect x="144" width="3" height="36" fill="#808080"/>
+<rect x="144" width="36" height="3" fill="#808080"/>
+<rect x="162.398" y="5.39818" width="2" height="28" rx="1" fill="black"/>
+<rect x="177.398" y="18.3982" width="2" height="28" rx="1" transform="rotate(90 177.398 18.3982)" fill="black"/>
+<rect x="173.298" y="27.8835" width="2" height="26" rx="1" transform="rotate(135 173.298 27.8835)" fill="black"/>
+<rect x="171.883" y="9.39818" width="2" height="26" rx="1" transform="rotate(45 171.883 9.39818)" fill="black"/>
+<circle cx="163.398" cy="19.3982" r="10" fill="url(#paint1_radial)"/>
+<rect width="36" height="36" transform="translate(180)" fill="#C4C4C4"/>
+<rect x="180" width="3" height="36" fill="#808080"/>
+<rect x="180" width="36" height="3" fill="#808080"/>
+<rect width="36" height="36" transform="translate(216)" fill="#C4C4C4"/>
+<rect x="216" width="3" height="36" fill="#808080"/>
+<rect x="216" width="36" height="3" fill="#808080"/>
+<path d="M225.75 30.875V27.625H232.25V14.625H229V11.375H232.25V8.125H238.75V27.625H245.25V30.875H225.75Z" fill="#0000FF"/>
+<rect width="36" height="36" transform="translate(252)" fill="#C4C4C4"/>
+<rect x="252" width="3" height="36" fill="#808080"/>
+<rect x="252" width="36" height="3" fill="#808080"/>
+<path d="M260.01 30.8891V24.3891H263.26V21.1391H266.51V17.8891H273.01V14.6391H276.26V11.3891H266.51V14.6391H260.01V11.3891H263.26V8.13907H279.51V11.3891H282.76V17.8891H279.51V21.1391H276.26V24.3891H269.76V27.6391H282.76V30.8891H260.01Z" fill="#008000"/>
+<rect width="36" height="36" transform="translate(288)" fill="#C4C4C4"/>
+<rect x="288" width="3" height="36" fill="#808080"/>
+<rect x="288" width="36" height="3" fill="#808080"/>
+<path d="M297.875 30.8827V27.6327H294.625V24.3827H301.125V27.6327H310.875V21.1327H301.125V17.8827H304.375V14.6327H307.625V11.3827H297.875V8.13269H317.375V11.3827H314.125V14.6327H310.875V17.8827H314.125V21.1327H317.375V27.6327H314.125V30.8827H297.875Z" fill="#FF0000"/>
+<rect width="36" height="36" transform="translate(324)" fill="#C4C4C4"/>
+<rect x="324" width="3" height="36" fill="#808080"/>
+<rect x="324" width="36" height="3" fill="#808080"/>
+<path d="M343.625 30.8511V24.3511H330.625V17.8511H333.875V14.6011H337.125V11.3511H340.375V8.10107H350.125V21.1011H353.375V24.3511H350.125V30.8511H343.625ZM337.125 21.1011H343.625V14.6011H340.375V17.8511H337.125V21.1011Z" fill="#000080"/>
+<rect width="36" height="36" transform="translate(360)" fill="#C4C4C4"/>
+<rect x="360" width="3" height="36" fill="#808080"/>
+<rect x="360" width="36" height="3" fill="#808080"/>
+<path d="M371.11 30.783V27.533H367.86V24.283H374.36V27.533H384.11V17.783H367.86V8.03304H387.36V11.283H374.36V14.533H387.36V17.783H390.61V27.533H387.36V30.783H371.11Z" fill="#800000"/>
+<rect width="36" height="36" transform="translate(396)" fill="#C4C4C4"/>
+<rect x="396" width="3" height="36" fill="#808080"/>
+<rect x="396" width="36" height="3" fill="#808080"/>
+<path d="M407.01 30.8587V27.6087H403.76V14.6087H407.01V11.3587H410.26V8.10873H423.26V11.3587H413.51V14.6087H410.26V17.8587H423.26V21.1087H426.51V27.6087H423.26V30.8587H407.01ZM410.26 27.6087H420.01V21.1087H410.26V27.6087Z" fill="#008080"/>
+<rect width="36" height="36" transform="translate(432)" fill="#C4C4C4"/>
+<rect x="432" width="3" height="36" fill="#808080"/>
+<rect x="432" width="36" height="3" fill="#808080"/>
+<path d="M446.008 30.8219V21.0719H449.258V17.8219H452.508V14.5719H455.758V11.3219H446.008V14.5719H439.508V8.0719H462.258V14.5719H459.008V17.8219H455.758V21.0719H452.508V30.8219H446.008Z" fill="black"/>
+<rect width="36" height="36" transform="translate(468)" fill="#C4C4C4"/>
+<rect x="468" width="3" height="36" fill="#808080"/>
+<rect x="468" width="36" height="3" fill="#808080"/>
+<path d="M479.218 30.802V27.552H475.968V21.052H479.218V17.802H475.968V11.302H479.218V8.05199H492.218V11.302H495.468V17.802H492.218V21.052H498.718V27.552H495.468V30.802H479.218ZM485.718 17.802H492.218V11.302H482.468V14.552H485.718V17.802ZM479.218 27.552H492.218V24.302H485.718V21.052H479.218V27.552Z" fill="#808080"/>
+<defs>
+<radialGradient id="paint0_radial" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(124.961 17.9816) rotate(63.2299) scale(5.41051)">
+<stop stop-color="#CACACA"/>
+<stop offset="1"/>
+</radialGradient>
+<radialGradient id="paint1_radial" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(160.961 17.9816) rotate(63.2299) scale(5.41051)">
+<stop stop-color="#CACACA"/>
+<stop offset="1"/>
+</radialGradient>
+</defs>
+</svg>
